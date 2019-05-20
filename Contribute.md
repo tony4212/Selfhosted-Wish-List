@@ -3,7 +3,7 @@
 The goal of this repository is to help grow the self-hosting community by increasing awareness and improving upon organization of the demands for nonexistent software.
 
 
-# contributing
+# Contributing
 
 Before You decide to contribute please keep in mind that this list can become quite complex if carless forks and issues are added.
 
