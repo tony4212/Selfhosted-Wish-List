@@ -19,4 +19,4 @@ Wish to contribute? First [click here](/Contribute.md)
 
 [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want/vote) [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want/vote)
 
-[![Upvote] (https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)]
+[![Upvote](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)]
