@@ -16,7 +16,4 @@ Wish to contribute? First [click here](/Contribute.md)
 **[`^        back to top        ^`](#)**
 
 - **feed reader filtration tool** - A way to filter feeds before they get to your favorite feed reader.
-
 [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want/vote) [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want/vote)
-
-[![Upvote](http://www.strawpoll.me/18026477)
