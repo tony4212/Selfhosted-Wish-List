@@ -1,7 +1,7 @@
 # Awesome-Selfhosted-Wish-List
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of Free Software network services and web applications that don't exist for selfhosting. This repository is based on the famous [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md) lsit, but it is specifically for listing ideas for software that doesn't exist or is currently deprecated. The purpose of this is to organize the community to help build software or work on deprecated software that many currently wish for.
+A list of Free Software network services and web applications that don't exist for selfhosting. This repository is based on the famous [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md) list, but it is specifically for listing ideas for software that doesn't exist or is currently deprecated. The purpose of this is to organize the community to help build software or work on deprecated software that many currently wish for.
 
 --------------------
 
