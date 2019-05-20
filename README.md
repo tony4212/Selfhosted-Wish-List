@@ -18,3 +18,19 @@ Wish to contribute? First [click here](/Contribute.md)
 - **feed reader filtration tool** - A way to filter feeds before they get to your favorite feed reader.
 
 [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want/vote) [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Don't%20want/vote)
+
+
+<ul class="vote">
+  <li class="vote__item">
+    <input class="vote__control" type="radio" name="vote1" id="upvote1">
+    <label class="vote__label vote__label--upvote" for="upvote1">
+      <span class="vote__content">Upvote</span>
+    </label>
+  </li>
+  <li class="vote__item">
+    <input class="vote__control" type="radio" name="vote1" id="downvote1">
+    <label class="vote__label vote__label--downvote" for="downvote1">
+      <span class="vote__content">Downvote</span>
+    </label>
+  </li>
+</ul>
