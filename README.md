@@ -15,5 +15,3 @@ A list of Free Software network services and web applications that don't exist f
 **[`^        back to top        ^`](#)**
 
 - **feed reader filtration tool** - A way to filter feeds before they get to your favorite feed reader.
-
-[![](https://api.gh-polls.com/poll/01DBBDZZP8E78XZWNDPTD82909/want)](https://api.gh-polls.com/poll/01DBBDZZP8E78XZWNDPTD82909/want/vote) [![](https://api.gh-polls.com/poll/01DBBDZZP8E78XZWNDPTD82909/Don't%20want)](https://api.gh-polls.com/poll/01DBBDZZP8E78XZWNDPTD82909/Don't%20want/vote)
