@@ -5,23 +5,17 @@ A list of Free Software network services and web applications that don't exist f
 Wish to contribute? First [click here](/Contribute.md)
 
 --------------------
-
 <!-- BEGIN SOFTWARE LIST -->
 
 - **feed reader filtration tool** - A way to filter feeds before they get to your favorite feed reader.
 [![](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want)](https://api.gh-polls.com/poll/01DBBMNZEY9NAVBPHRRJTXN5KQ/Want/vote)
 
-html
-<h2>Example of code</h2>
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
+--------------------
+Help Wanted
 
+--------------------
+Other
+- [Archives]
+- [Intro, Contribute, and FAQ](/Contribute.md)
+- [Wall of fame]
