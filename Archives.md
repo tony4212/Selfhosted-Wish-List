@@ -12,10 +12,10 @@ List of software
 -------------------
 
 ## Feed Readers
-[youtube2rss](https://github.com/livioso/youtube2rss) - Selfhosted RSS Podcast Feeds for Youtube channels.
-[kaRdaSShian](https://github.com/GSmurf/kaRdaSShian) - RSS Filter for Newsfeeds
-[filterss](https://github.com/tmuguet/filterss) - Keyword-based filter for RSS/Atom feeds
-[rss2rss](https://github.com/alasdairhurst/rss2rss) - server which hosts a filtered version of an existing rss feed
+- [youtube2rss](https://github.com/livioso/youtube2rss) - Selfhosted RSS Podcast Feeds for Youtube channels.
+- [kaRdaSShian](https://github.com/GSmurf/kaRdaSShian) - RSS Filter for Newsfeeds
+- [filterss](https://github.com/tmuguet/filterss) - Keyword-based filter for RSS/Atom feeds
+- [rss2rss](https://github.com/alasdairhurst/rss2rss) - server which hosts a filtered version of an existing rss feed
 
 ## File Sharing and Synchronization
 [Dropzone](https://github.com/96AA48/dropzone) - The drag-and-drop, instant uploading, selfhosted, peer-to-peer file sharing application.
