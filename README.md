@@ -5,13 +5,14 @@ A list of Free Software network services and web applications that don't exist f
 Wish to contribute? First [click here](/Contribute.md)
 
 --------------------
+Software ideas:
 <!-- BEGIN SOFTWARE LIST -->
 
-- **feed reader filtration tool** - A way to filter feeds before they get to your favorite feed reader.
+- **Example idea** - This is just an example.
 
 
 --------------------
-Help Wanted
+Help Wanted:
 
 --------------------
 Other
