@@ -16,6 +16,6 @@ Help Wanted
 
 --------------------
 Other
-- [Archives]
+- [Archives](/Archives.md)
 - [Intro, Contribute, and FAQ](/Contribute.md)
 - [Wall of fame]
