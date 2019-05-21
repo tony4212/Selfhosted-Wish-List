@@ -18,10 +18,8 @@ List of software
 - [rss2rss](https://github.com/alasdairhurst/rss2rss) - server which hosts a filtered version of an existing rss feed
 
 ## File Sharing and Synchronization
-[Dropzone](https://github.com/96AA48/dropzone) - The drag-and-drop, instant uploading, selfhosted, peer-to-peer file sharing application.
+- [Dropzone](https://github.com/96AA48/dropzone) - The drag-and-drop, instant uploading, selfhosted, peer-to-peer file sharing application.
 
 ## Personal Dashboards
-[Homelab-Dashboard](https://github.com/1823alex/Homelab-Dashboard) - A Simple dashboard for your homelab using bootstrap.
-
-
-[movies-to-watch](https://github.com/petrk94/movies-to-watch) - Easy web application to create a self hostable list for the movies you want to watch.
+- [Homelab-Dashboard](https://github.com/1823alex/Homelab-Dashboard) - A Simple dashboard for your homelab using bootstrap.
+- [movies-to-watch](https://github.com/petrk94/movies-to-watch) - Easy web application to create a self hostable list for the movies you want to watch.
