@@ -16,4 +16,5 @@ Before You decide to contribute please keep in mind that this list can become qu
 # FAQ
 
 * What is archives ?
+
 Archives is a .md dedicated towards depricated selfhost projects. The goal is to have the ease of searching through code that can give the community other ideas for future projects.
