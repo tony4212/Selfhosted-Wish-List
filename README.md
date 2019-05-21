@@ -18,4 +18,3 @@ Help Wanted
 Other
 - [Archives](/Archives.md)
 - [Intro, Contribute, and FAQ](/Contribute.md)
-- [Wall of fame](/Wall of fame.md)
