@@ -12,7 +12,7 @@ Wish to contribute? First [click here](/Contribute.md)
 
 
 --------------------
-Help Wanted
+## Help Wanted
 
 --------------------
 Other
