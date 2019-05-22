@@ -14,6 +14,7 @@ Software ideas:
 --------------------
 In Development:
 - [easyskilltracker](https://github.com/spech66/easyskilltracker) - Super easy flat file based selfhosted skill tracker (learn new skills from multiple resources).
+- [Joyread](https://github.com/joyread/server) - Self-hosted "free" multi-user ebook reader. syn with nextcloud
 --------------------
 Other
 - [Archives](/Archives.md)
