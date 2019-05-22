@@ -12,8 +12,8 @@ Software ideas:
 
 
 --------------------
-Help Wanted:
-
+In Developement:
+- [easyskilltracker](https://github.com/spech66/easyskilltracker) - Super easy flat file based selfhosted skill tracker (learn new skills from multiple resources).
 --------------------
 Other
 - [Archives](/Archives.md)
