@@ -8,7 +8,7 @@ Wish to contribute? First [click here](/Contribute.md)
 Software ideas:
 <!-- BEGIN SOFTWARE LIST -->
 
-- **Example idea** - This is just an example.
+- **Task Manager automation** - A selfhosted task manager that will auto adjust your schedule if you haven't completed a tast. A good example of this is [focuster](https://www.focuster.com). There currently aren't many selfhosted task Managers and none that can do this.
 
 
 --------------------
