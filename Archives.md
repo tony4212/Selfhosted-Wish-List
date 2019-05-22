@@ -5,11 +5,14 @@
 ##### Warning: This is a list of unmaintained / deprecated software. It is not recommended that you use this software as is.
 -------------------
 List of software
+- [Calendaring and Contacts Management](#calendaring-and-contacts-management)
 - [Feed Readers](#feed-readers)
 - [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Personal Dashboards](#personal-dashboards)
 
 -------------------
+## Calendaring and Contacts Management
+- [katana](https://github.com/sabre-io/katana) - A contact, calendar, task list and file server, synced, everywhere, all the time.
 
 ## Feed Readers
 - [youtube2rss](https://github.com/livioso/youtube2rss) - Selfhosted RSS Podcast Feeds for Youtube channels.
