@@ -12,7 +12,7 @@ Software ideas:
 
 
 --------------------
-In Developement:
+In Development:
 - [easyskilltracker](https://github.com/spech66/easyskilltracker) - Super easy flat file based selfhosted skill tracker (learn new skills from multiple resources).
 --------------------
 Other
