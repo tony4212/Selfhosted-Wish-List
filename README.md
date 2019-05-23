@@ -16,6 +16,7 @@ Software ideas:
 --------------------
 In Development:
 - [easyskilltracker](https://github.com/spech66/easyskilltracker) - Super easy flat file based selfhosted skill tracker (learn new skills from multiple resources).
+- [hostable-podcast](https://github.com/rossboswell/hostable-podcast) - A self-hostable podcast website, allowing you to create and host your own podcast.
 - [Joyread](https://github.com/joyread/server) - Self-hosted "free" multi-user ebook reader. syn with nextcloud
 --------------------
 Other
