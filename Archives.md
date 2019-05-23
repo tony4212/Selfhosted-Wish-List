@@ -12,6 +12,7 @@ List of software
 
 -------------------
 ## Calendaring and Contacts Management
+- [address-book](https://github.com/AlexWinder/address-book) - Web-based address book and contact manager with user authentication, logging and API functionality built in PHP.
 - [katana](https://github.com/sabre-io/katana) - A contact, calendar, task list and file server, synced, everywhere, all the time.
 
 ## Feed Readers
