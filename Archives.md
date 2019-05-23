@@ -30,4 +30,5 @@ List of software
 - [movies-to-watch](https://github.com/petrk94/movies-to-watch) - Easy web application to create a self hostable list for the movies you want to watch.
 
 ## Task management/To-do lists
+- [braindump](https://github.com/felicianotech/braindump) - BrainDump is a simple, powerful, and open note taking platform that makes it easy to organize your life. 
 - [multikanban](https://github.com/mezod/multikanban) - A simple kanban for multiple personal projects. 
