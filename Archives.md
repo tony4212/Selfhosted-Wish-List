@@ -9,6 +9,7 @@ List of software
 - [Feed Readers](#feed-readers)
 - [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Personal Dashboards](#personal-dashboards)
+- [Task management/To-do lists](#task-managementto-do-lists)
 
 -------------------
 ## Calendaring and Contacts Management
@@ -27,3 +28,6 @@ List of software
 ## Personal Dashboards
 - [Homelab-Dashboard](https://github.com/1823alex/Homelab-Dashboard) - A Simple dashboard for your homelab using bootstrap.
 - [movies-to-watch](https://github.com/petrk94/movies-to-watch) - Easy web application to create a self hostable list for the movies you want to watch.
+
+## Task management/To-do lists
+- [multikanban](https://github.com/mezod/multikanban) - A simple kanban for multiple personal projects. 
