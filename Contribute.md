@@ -22,3 +22,7 @@ What is archives ?
 What is the "In development" section in main readme.md ?
 
 * In development is a section dedicated to software that is still in the development stage and isn't ready for general use. Once a project becomes ready for general use it is recommended to add your project to [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted). Once that is done, your project will be taken down from the help wanted section and added to the wall of fame.
+
+How do I start a project ?
+
+* If you wish to start a project add the link to the project in the "In development". If the idea already exists please move it to the "In developement" section and add the link.
