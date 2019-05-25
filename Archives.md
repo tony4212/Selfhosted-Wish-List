@@ -6,6 +6,7 @@
 -------------------
 List of software
 - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
+- [E-books and Integrated Library Systems (ILS)](#e-books-and-integrated-library-systems-ils)
 - [Feed Readers](#feed-readers)
 - [File Sharing and Synchronization](#file-sharing-and-synchronization)
 - [Personal Dashboards](#personal-dashboards)
@@ -15,6 +16,9 @@ List of software
 ## Calendaring and Contacts Management
 - [address-book](https://github.com/AlexWinder/address-book) - Web-based address book and contact manager with user authentication, logging and API functionality built in PHP.
 - [katana](https://github.com/sabre-io/katana) - A contact, calendar, task list and file server, synced, everywhere, all the time.
+
+## E-books and Integrated Library Systems (ILS)
+- [readingcloud](https://github.com/tschak909/readingcloud) - A simple epub.js based reader for personal use from a web browser. 
 
 ## Feed Readers
 - [youtube2rss](https://github.com/livioso/youtube2rss) - Selfhosted RSS Podcast Feeds for Youtube channels.
