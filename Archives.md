@@ -36,4 +36,4 @@ List of software
 ## Task management/To-do lists
 - [braindump](https://github.com/felicianotech/braindump) - BrainDump is a simple, powerful, and open note taking platform that makes it easy to organize your life. 
 - [multikanban](https://github.com/mezod/multikanban) - A simple kanban for multiple personal projects. 
-- [TaskJuggler](https://github.com/taskjuggler/TaskJuggler) - Project Management beyond Gantt chart drawing
+- [TaskJuggler](https://github.com/taskjuggler/TaskJuggler) - Project Management beyond Gantt chart drawing.
